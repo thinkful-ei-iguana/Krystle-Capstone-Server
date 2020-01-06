@@ -13,7 +13,7 @@ VALUES
   ('wippy', 'Ping Won In', 'Ping@gmail.com', '$2y$12$b0EkihzKmg.w40jbGlZq3eUtNqzU2ftg6Q1wDnTW9fJ7K2Ttkk9yK');
 
 
-/*INSERT INTO clear_bookmarks
+INSERT INTO clear_bookmarks
     (product_type, product_description, product_rating, user_id)
   VALUES
     ('Cleanser', 'Dry skin', '5', 1),
