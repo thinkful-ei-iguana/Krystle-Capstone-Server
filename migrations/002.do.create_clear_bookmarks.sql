@@ -1,4 +1,4 @@
-DROP TYPE IF EXISTS goal;
+DROP TYPE IF EXISTS bookmarks;
 CREATE TYPE bookmarks AS TEXT
 (
   'Cleanser', 'Toner', 'Serum', 'Moisturizer', 'Tools', 'Misc'
